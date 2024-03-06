@@ -1,0 +1,5 @@
+print('CALCULADOR DE AUMENTO DE SALÁRIO')
+s = float(input('Qual é o seu salário atual? R$'))
+a = int(input('Qual a % de aumento? '))
+sf = s+(s*a/100)
+print(f'O salário de R${s:.2f} com aumento de {a}% passa a ser de R${sf:.2f}')

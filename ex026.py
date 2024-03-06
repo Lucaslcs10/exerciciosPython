@@ -1,0 +1,7 @@
+print('Primeira e última ocorrência de uma string')
+frase = str(input('Digite uma frase: ').strip().upper())
+p1 = (frase.find('A') + 1)
+p2 = (frase.rfind('A') + 1)
+print(f'A letra "a" aparece {frase.count('A')} vezes na sua frase')
+print(f'A primeira letra "a" aparece na posição: {p1}')
+print(f'A última letra "a" aparece na posição: {p2}')
