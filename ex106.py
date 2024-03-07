@@ -30,3 +30,4 @@ def ih(fb):
 
 
 ih(str(input('Função ou Biblioteca > ')).lower().replace(' ', ''))
+#dd
