@@ -1,4 +1,4 @@
-import moeda
+from ex107 import moeda
 
 num = float(input("Digite um preço: R$"))
 taxa = int(input("% de taxa: "))
