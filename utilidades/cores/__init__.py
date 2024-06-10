@@ -1,7 +1,7 @@
 # cores letras
 normal = '\033[m'
-preto = '\033[30m'
 vermelho = '\033[31m'
+preto = '\033[30m'
 verde = '\033[32m'
 amarelo = '\033[33m'
 azul = '\033[34m'
@@ -20,5 +20,3 @@ froxo = '\033[45m'
 fciano = '\033[46m'
 fcinza = '\033[47m'
 fbranco = '\033[47m'
-
-
