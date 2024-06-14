@@ -1,4 +1,3 @@
-Lucas
-Camila
-Silmara
-Filó
+Lucas;27
+Camila;25
+Filomena;1
